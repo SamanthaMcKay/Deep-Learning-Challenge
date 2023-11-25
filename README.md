@@ -7,10 +7,13 @@ Assess the likelihood of success for a venture that Alphabet Soup is considering
 ## Softwares Used
 ### Libraries
 Pandas
+
 sklearn.model_selection
     train_test_split
+    
 sklearn.preprocessing
     StandardScaler
+    
 TensorFlow
 
 ## Preprocessing the Data
